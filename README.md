@@ -4,7 +4,7 @@ This project is a **desktop-first recreation of the Cursor developer tool landin
 The goal was to achieve **visual and structural accuracy**, closely matching the original Cursor website in layout, typography, and hierarchy.
 
 🔗 **Live Site:**  
-https://dhirenderchoudhary.github.io/Cursor/
+https://cursorlandingpagechai.netlify.app
 
 📂 **GitHub Repo:**  
 https://github.com/DhirenderChoudhary/Cursor
